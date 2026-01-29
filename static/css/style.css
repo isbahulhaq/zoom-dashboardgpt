@@ -1,0 +1,20 @@
+/* 
+ * Custom CSS for Zoom Dashboard
+ * Add your custom styles here
+ */
+
+/* Example: Custom button styles */
+.custom-button {
+    background-color: #667eea;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.custom-button:hover {
+    background-color: #764ba2;
+    transform: translateY(-2px);
+}
